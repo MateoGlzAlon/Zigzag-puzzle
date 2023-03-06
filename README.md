@@ -1,5 +1,5 @@
 # Zigzag-puzzle
-Final project of the subject "Programacion II" coursed in Universidad de Leon
+Intermediate project of the subject "Programacion II" coursed in Universidad de Leon
 
 
 The zigzag puzzle consists of a matrix of numbers between 1 and 9, and the goal is to find a path in the matrix starting from the top left corner, and ending at the bottom right corner, so as to pass through all the numbers in the matrix in circular ascending order (the largest number will be followed by the smallest) only once and without the path crossing. Horizontal, vertical and diagonal moves of length 1 are allowed, i.e. always to contiguous matrix positions. A move must always go to a different number.
